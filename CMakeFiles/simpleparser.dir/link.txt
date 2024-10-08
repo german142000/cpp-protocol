@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimpleparser.a CMakeFiles/simpleparser.dir/src/simple_parser.cpp.o
+/usr/bin/ranlib libsimpleparser.a
